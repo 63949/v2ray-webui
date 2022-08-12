@@ -1,6 +1,6 @@
 module github.com/cntechpower/v2ray-webui
 
-go 1.14
+go 1.11
 
 require (
 	github.com/cntechpower/utils v0.0.0-20210114162751-4711c3f01d0b
